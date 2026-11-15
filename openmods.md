@@ -22,7 +22,7 @@ same file the author uses with the game. Since that commit, bitfix changed only 
 
 ## Screenshots
 
-![bitfix](docs/cover.png)
+![bitfix](docs/cover.webp)
 
 ## How to install
 

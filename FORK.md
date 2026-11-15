@@ -10,7 +10,7 @@ repository, and so that players get one zip to unpack.
   (2024-12-11, bitfix 0.1.0), the source of the DLL in the packages. Upstream's later commits change only the
   examples in its README.
 - The bitfix code is unchanged. This fork adds only `FORK.md`, `openmods.json`, `openmods.md`, the cover image
-  `docs/cover.png`, and the game patches in `games/<game>/` (for Wuchang: Fallen Feathers:
+  `docs/cover.webp`, and the game patches in `games/<game>/` (for Wuchang: Fallen Feathers:
   `games/wuchang/bitfix/sig.lua`). It is unofficial: trumank did not make it and does not support it.
 - The release `v0.1.0-80af6c23` holds:
   - `wuchang_bitfix_v0.1.0-80af6c23.zip`: the package for Wuchang: Fallen Feathers as it is used in the game, with
@@ -26,4 +26,4 @@ repository, and so that players get one zip to unpack.
 
 | Date | Version | Change | Files |
 |---|---|---|---|
-| 2026-11-15 | v0.1.0-80af6c23 | Fork made; openmods files, cover and the Wuchang: Fallen Feathers patch added; no code change | `FORK.md`, `openmods.json`, `openmods.md`, `docs/cover.png`, `games/wuchang/bitfix/sig.lua` |
+| 2026-11-15 | v0.1.0-80af6c23 | Fork made; openmods files, cover and the Wuchang: Fallen Feathers patch added; no code change | `FORK.md`, `openmods.json`, `openmods.md`, `docs/cover.webp`, `games/wuchang/bitfix/sig.lua` |
