@@ -1,0 +1,13 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "bitfix",
+  "summary": "trumank's bitfix, a Lua-scriptable runtime patcher, with ready game packages: the Wuchang Mod Enabler turns off the pak signature check.",
+  "games": ["wuchang-fallen-feathers"],
+  "tags": ["tools", "library"],
+  "cover": "docs/cover.png",
+  "links": {
+    "website": "https://github.com/trumank/bitfix",
+    "support": "https://github.com/trumank/bitfix/issues"
+  }
+}
